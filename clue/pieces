@@ -1,0 +1,43 @@
+victim
+Mr. Black			b
+
+suspects
+Colonel_Mustard;	c
+Professor_Plum;		m
+Mr_Green;			g
+Mrs_Peacock;		p
+Miss_Scarlett;		s
+Mrs_White;			w
+
+weapon
+knife;
+candlestick;
+revolver;
+rope;
+lead_pipe;
+pipe_wrench;
+
+room
+Hall;
+Lounge;
+Dining_Room;
+Kitchen;
+Ballroom;
+Conservatory;
+Billiard_Room;
+Library;
+Study;
+
+
+
+
+
+
+	 \	\		_______|#|______
+	  / /	   /  _	   |#|	 _  \    ____
+	  \\	  /	 |#|		|#|	 \  /* * \
+	   /   	 /____________________\|* *  *|
+			 |		 ___	 _	  | \*_*_/
+			 |		|	|	|#|	  |	  ||
+			 |		|  *|		  |  / |\
+	=========================================
