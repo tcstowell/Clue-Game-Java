@@ -35,7 +35,7 @@ public class Mrs_White extends person {
 		int roll;
 		int[] where;
 		Random r = new Random();
-		roll = r.nextInt(10) + 50;// 2;
+		roll = r.nextInt(10) + 2;
 		c.getBoard();
 		c.moveRoom(this);
 		System.out.println("You rolled a " + roll);
